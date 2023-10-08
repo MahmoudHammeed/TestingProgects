@@ -1,2 +1,2 @@
-# TestingProgects
+# TestingProjects
 the repo contain test case for websites 
